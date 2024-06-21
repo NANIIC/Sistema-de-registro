@@ -6,4 +6,4 @@
 
 ```npm install react```
 
-Sistema de Rgistro 
+Sistema de Registro 
